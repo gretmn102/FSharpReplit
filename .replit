@@ -1,4 +1,4 @@
-run = "sh ./build.sh && cd ./deploy && dotnet ./GiraffeHelloWorld.dll"
+run = "sh ./build.sh && cd ./deploy && ./Server"
 
 hidden = ["bin", "obj"]
 
