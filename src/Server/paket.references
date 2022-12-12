@@ -1,1 +1,3 @@
-Saturn
+group Server
+    FSharp.Core
+    Saturn
